@@ -1,0 +1,121 @@
+[33mcommit c990b12fabc8fb5d92a1596becb03aff5b8f2cef[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: TaeshinUshiroda <taeshinushiroda@gmail.com>
+Date:   Sat Nov 9 18:31:21 2024 -0500
+
+    init
+
+[33mcommit 9e03a58a3f396774fd885c3fd790036d1bab1dc4[m
+Author: TaeshinUshiroda <taeshinushiroda@gmail.com>
+Date:   Sat Nov 9 18:24:20 2024 -0500
+
+    init
+
+[33mcommit 83011e4ae04007c23b02336e931646f1c0d20234[m
+Author: TaeshinUshiroda <taeshinushiroda@gmail.com>
+Date:   Sat Nov 9 18:16:21 2024 -0500
+
+    init
+
+[33mcommit 56f1bb9731c196314b673383498e3b0523974bc4[m
+Author: TaeshinUshiroda <taeshinushiroda@gmail.com>
+Date:   Sat Nov 9 18:14:13 2024 -0500
+
+    init
+
+[33mcommit 99d0fe6095177705e871fac45f3d8a80098c727e[m
+Author: TaeshinUshiroda <taeshinushiroda@gmail.com>
+Date:   Thu Oct 17 03:24:50 2024 -0400
+
+    wow something broke so now some tests just dont run. old submission with decent results. Added comments for the functions. man this sucks.
+
+[33mcommit 06a65d831c8462b9b0011f981c64a09d6aa5a4cc[m
+Author: TaeshinUshiroda <taeshinushiroda@gmail.com>
+Date:   Thu Oct 17 02:31:15 2024 -0400
+
+    Revert "just figuring out the makemove test"
+    
+    This reverts commit c0b9284920452d826afaed3af941283603fad081.
+    
+    this should be the one that works
+
+[33mcommit 6d77a3b86a2bdda6aecedd3bec37ec962e18ab05[m
+Author: TaeshinUshiroda <taeshinushiroda@gmail.com>
+Date:   Thu Oct 17 02:30:27 2024 -0400
+
+    Revert "trying to fix some mistake somewhere?"
+    
+    This reverts commit 83e46d42606e78d0cdafab61de8987384bbf88a3.
+    
+    one in, one more to go
+
+[33mcommit 83e46d42606e78d0cdafab61de8987384bbf88a3[m
+Author: TaeshinUshiroda <taeshinushiroda@gmail.com>
+Date:   Thu Oct 17 02:29:48 2024 -0400
+
+    trying to fix some mistake somewhere?
+
+[33mcommit c0b9284920452d826afaed3af941283603fad081[m
+Author: TaeshinUshiroda <taeshinushiroda@gmail.com>
+Date:   Thu Oct 17 00:24:16 2024 -0400
+
+    just figuring out the makemove test
+
+[33mcommit 0a75550a0728f4ee097f38e27570f1a2e04ab540[m
+Author: TaeshinUshiroda <taeshinushiroda@gmail.com>
+Date:   Wed Oct 16 15:35:49 2024 -0400
+
+    done with task 3
+
+[33mcommit 148e108b4ee3c6328f68c837babbe1171c7b5095[m
+Author: TaeshinUshiroda <taeshinushiroda@gmail.com>
+Date:   Tue Oct 15 19:06:35 2024 -0400
+
+    done with task 2
+
+[33mcommit 267902d5729244b1308f683f325463fd861c0890[m
+Author: TaeshinUshiroda <taeshinushiroda@gmail.com>
+Date:   Tue Oct 15 19:04:26 2024 -0400
+
+    T2.5 and T2.6 done (oops i forgot to commit earlier)
+
+[33mcommit 94bdccca2c686809498fdb2646adef4f1f8d1b9c[m[33m ([m[1;32mT2.4[m[33m)[m
+Author: TaeshinUshiroda <taeshinushiroda@gmail.com>
+Date:   Tue Oct 15 15:46:52 2024 -0400
+
+    T2.4 tests done
+
+[33mcommit 5c1cf67b482f2b0517b92c4f8a5b58078a006e95[m[33m ([m[1;32mT2.3[m[33m)[m
+Author: TaeshinUshiroda <taeshinushiroda@gmail.com>
+Date:   Tue Oct 15 15:01:10 2024 -0400
+
+    T2.3 tests done
+
+[33mcommit 607b14dd4bce9a7a0db7b66048bbb9c43c17cb50[m
+Author: TaeshinUshiroda <taeshinushiroda@gmail.com>
+Date:   Tue Oct 15 03:44:48 2024 -0400
+
+    T2.2 tests done
+
+[33mcommit 45f6bb38bd496a5ba2d7f9158529a75c868c3ab6[m
+Author: TaeshinUshiroda <taeshinushiroda@gmail.com>
+Date:   Sun Oct 13 00:08:28 2024 -0400
+
+    everything but tic area controller mock test
+
+[33mcommit 115b8d52587451c0c356357c07d4de34aa610645[m
+Author: TaeshinUshiroda <taeshinushiroda@gmail.com>
+Date:   Sat Oct 12 17:11:09 2024 -0400
+
+    linted and finished tests for TicTacToeAreaController hopefully
+
+[33mcommit bb7209c7a6213f54b771ebe9fa69bb53b27d2d1c[m
+Author: TaeshinUshiroda <taeshinushiroda@gmail.com>
+Date:   Sat Oct 12 17:04:36 2024 -0400
+
+    finished tests, wait for submit
+
+[33mcommit 6d6ad656449970dea00a6a4edc734f0ee4a3b65a[m
+Author: TaeshinUshiroda <taeshinushiroda@gmail.com>
+Date:   Sat Oct 12 15:50:21 2024 -0400
+
+    first
